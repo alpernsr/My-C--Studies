@@ -1,0 +1,8 @@
+C:\Users\ALPEREN\source\repos\CSharpCourses\Interface\bin\Debug\Interface.exe.config
+C:\Users\ALPEREN\source\repos\CSharpCourses\Interface\bin\Debug\Interface.exe
+C:\Users\ALPEREN\source\repos\CSharpCourses\Interface\bin\Debug\Interface.pdb
+C:\Users\ALPEREN\source\repos\CSharpCourses\Interface\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\ALPEREN\source\repos\CSharpCourses\Interface\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALPEREN\source\repos\CSharpCourses\Interface\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ALPEREN\source\repos\CSharpCourses\Interface\obj\Debug\Interface.exe
+C:\Users\ALPEREN\source\repos\CSharpCourses\Interface\obj\Debug\Interface.pdb

@@ -1,0 +1,8 @@
+C:\Users\ALPEREN\source\repos\CSharpCourses\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\ALPEREN\source\repos\CSharpCourses\Constructors\bin\Debug\Constructors.exe
+C:\Users\ALPEREN\source\repos\CSharpCourses\Constructors\bin\Debug\Constructors.pdb
+C:\Users\ALPEREN\source\repos\CSharpCourses\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\ALPEREN\source\repos\CSharpCourses\Constructors\obj\Debug\Constructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALPEREN\source\repos\CSharpCourses\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\ALPEREN\source\repos\CSharpCourses\Constructors\obj\Debug\Constructors.exe
+C:\Users\ALPEREN\source\repos\CSharpCourses\Constructors\obj\Debug\Constructors.pdb
